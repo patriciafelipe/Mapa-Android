@@ -1,0 +1,7 @@
+
+
+Activity
+https://github.com/wagnermarques/somewritings/blob/rascunho/android/projetos/AndrStud35GmapsAPPWithPermission/app/src/main/java/com/example/andrstud35gmapsapp/MapsActivity.java
+
+Permission utils
+https://github.com/wagnermarques/somewritings/blob/rascunho/android/projetos/AndrStud35GmapsAPPWithPermission/app/src/main/java/com/example/andrstud35gmapsapp/PermissionsUtils.java
